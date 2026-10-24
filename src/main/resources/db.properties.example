@@ -1,0 +1,3 @@
+db.url=jdbc:sqlserver://localhost:1433;databaseName=UNI_Academico;encrypt=true;trustServerCertificate=true;
+db.usuario=sa
+db.clave=ponga_aqui_su_contraseña
